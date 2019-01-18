@@ -1,0 +1,7 @@
+node_modules/
+_docpress/
+_td_database/
+_td_files/
+coverage/
+lib-cov/
+.npm/
